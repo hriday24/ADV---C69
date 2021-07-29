@@ -1,0 +1,21 @@
+html{
+    scroll-behavior: smooth;
+}
+body{
+    background: linear-gradient(purple, blue);
+    align-content: center;
+}
+h1{
+    color: white;
+}
+hr{
+    height: 9;
+}
+marquee{
+    margin-right: auto;
+}
+.Boxes{
+    width: 75%;
+    border: 15px solid White;
+    margin: auto;
+}
